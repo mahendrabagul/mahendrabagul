@@ -1,0 +1,21 @@
+{
+  "name": "mahendrabagul",
+  "version": "1.0.0",
+  "description": "This prints info about mahendrabagul",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "bin": {
+    "mahendrabagul": "./bin/mahendrabagulinfo-global.js"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "mahendrabagul"
+  },
+  "author": "bagulm123@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "json-beautify": "^1.1.1"
+  }
+}
