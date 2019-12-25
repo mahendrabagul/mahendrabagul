@@ -1,6 +1,6 @@
 {
   "name": "mahendrabagul",
-  "version": "1.0.0",
+  "version": "2.0.3",
   "description": "This prints info about mahendrabagul",
   "main": "./lib/index.js",
   "directories": {
@@ -15,7 +15,7 @@
   },
   "author": "bagulm123@gmail.com",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "json-beautify": "^1.1.1"
   }
 }
