@@ -15,7 +15,7 @@
   },
   "author": "bagulm123@gmail.com",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "json-beautify": "^1.1.1"
   }
 }
